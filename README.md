@@ -1,3 +1,6 @@
-# PanGu
-> In ancient China, there is a god, it's called "pan gu", it from the open up in a chaotic universe.
-This project aims to in trigger software development as a whole, to build one
+# PanGu（盘古）
+
+## 项目介绍
+> 在中国古代有一位神，它从一片混沌中开天辟地创造了宇宙它是：“盘古”。本项目旨在 结合多种专业软件研发辅助工具，构建企业级的软件研发体系。从项目调研，项目立项，研发任务跟踪，集成测试，灰度测试到线上发布，再到后续的运维。构建一个完成的有机系统，让工作高效，让项目 研发 收益可管理可控制。助跑 中小微软件研发企业，为爱发电，准守MIT开源协议，欢迎你的PR和各种建议👏🏻
+
+## 特别鸣谢
